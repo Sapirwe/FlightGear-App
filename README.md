@@ -1,5 +1,5 @@
 FlightGear App
-link to github - https://github.com/Sapirwe/FlightGear-App.git
+link to github - https://github.com/Sapirwe/FlightGear-App.git.
 link to an explain video - https://youtu.be/UZrsobLt4-E
 
 Summary:
